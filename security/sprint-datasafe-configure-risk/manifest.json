@@ -1,0 +1,17 @@
+{
+   "workshoptitle": "LiveLabs Sprints",
+   "help": "livelabs-help-sprints_us@oracle.com",
+   "tutorials": [
+      {
+         "title": "How do I adjust the risk level of a risk finding?",
+         "description": "After completing a security assessment in Data Safe you will be presented with a number of risk findings and their initial risk levels. Once you have taken appropriate actions to mitigate security risks on a target database based on the results of a security assessment, you can adjust the risk level of a finding. Adjustments of risk levels can be indefinite or have an expiration date.",
+         "filename": "configure-risk.md"
+      },
+      {
+         "title": "How do I create event notifications in Oracle Data Safe?",
+         "description": "Instead of having to use OCI Events and Notifications to create Data Safe related Rules and Subscriptions, you can now use the Notifications tab available in Data Safe's features to create event notifications and subscriptions while remaining in Data Safe.",
+         "filename": "contextual-notifications.md"
+      }
+   ],
+   "task_type": "Sections"
+}
